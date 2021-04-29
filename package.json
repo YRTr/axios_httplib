@@ -1,0 +1,12 @@
+{
+  "name": "axiosjs_httplib",
+  "version": "1.0.0",
+  "description": "> These are the files for the YouTube Axios crash course.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
